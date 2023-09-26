@@ -1,0 +1,10 @@
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\bin\Debug\ReporteExcel_CS.exe.config
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\bin\Debug\ReporteExcel_CS.exe
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\bin\Debug\ReporteExcel_CS.pdb
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\obj\Debug\ReporteExcel_CS.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\obj\Debug\ReporteExcel_CS.Form1.resources
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\obj\Debug\ReporteExcel_CS.Properties.Resources.resources
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\obj\Debug\ReporteExcel_CS.csproj.GenerateResource.cache
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\obj\Debug\ReporteExcel_CS.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\obj\Debug\ReporteExcel_CS.exe
+C:\Users\pauli\source\repos\ReporteExcel_CS\ReporteExcel_CS\obj\Debug\ReporteExcel_CS.pdb
